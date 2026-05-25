@@ -1,0 +1,6 @@
+{
+  "name": "Forensic Video and Image Analyzer",
+  "description": "An interactive forensic tool to analyze video, images, and text offline using local machine learning models and server-side semantic analysis.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
